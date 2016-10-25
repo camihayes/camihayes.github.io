@@ -343,6 +343,10 @@ a:focus {
     }
 }
 
+.img-circle{
+     border: 1px solid #42dca3;
+}
+
 .btn {
     border-radius: 0;
     text-transform: uppercase;

@@ -8,7 +8,7 @@ body {
     background-color: #000;
 }
 
-#emp{
+#emp, #edu{
     text-align: justify;
 }
 
@@ -25,7 +25,7 @@ body {
     -o-background-size: cover;
 }
 
-.certificates-section {
+/*.certificates-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -35,11 +35,11 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
+} 
 
 .certificates-section a{
     color: #000;
-}
+} */
 
 .button a{
     color:#fff;

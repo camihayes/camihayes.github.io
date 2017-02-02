@@ -41,8 +41,12 @@ body {
 }
 
 .well{
-    background-color: #000;
+    background-color: #fff;
     opacity: .8;
+}
+
+.edu_emp{
+    text-align: justify;
 }
 
 .panel{

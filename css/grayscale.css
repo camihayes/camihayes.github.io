@@ -8,7 +8,7 @@ body {
 }
 
 
-.download-section {
+/*.download-section {
     width: 100%;
     padding: 50px 0;
     color: #000;
@@ -34,7 +34,7 @@ body {
 
 .certificates-section a{
     color: #000;
-}
+} */
 
 .button a{
     color:#fff;
@@ -45,13 +45,7 @@ body {
     opacity: .8;
 }
 
-.edu_emp{
-    text-align: justify;
-}
 
-.panel{
-    opacity: .7;
-}
 
 html {
     width: 100%;

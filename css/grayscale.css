@@ -8,7 +8,7 @@ body {
     background-color: #000;
 }
 
-#emp, #cert, #edu{
+#emp, #cert, #edu, #projects, h2{
     text-align: justify;
 }
 

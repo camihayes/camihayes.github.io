@@ -8,10 +8,6 @@ body {
     background-color: #000;
 }
 
-#emp, #cert, #edu, #projects, h2{
-    text-align: justify;
-}
-
 
 .download-section {
     width: 100%;
